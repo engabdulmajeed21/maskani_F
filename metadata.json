@@ -1,0 +1,9 @@
+{
+  "name": "Maskani Real Estate Platform",
+  "description": "منصة مسكني العقارية الشاملة للبحث عن المنازل والشقق والشاليهات والعقارات وإدارتها",
+  "prompt": "Maskani real estate platform imported from engabdulmajeed21/maskani",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

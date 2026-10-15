@@ -1,0 +1,12 @@
+{
+  "title": "Maskani Real Estate Platform - منصة مسكني العقارية",
+  "description": "منصة مسكني العقارية الشاملة للبحث عن المنازل والشقق والشاليهات والعقارات وإدارتها",
+  "language": "ar",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
